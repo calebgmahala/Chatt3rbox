@@ -1,0 +1,8 @@
+api-host: none
+api: none
+db-host: Heroku
+db: mongodb
+db-lang: graphql
+back-end: php(symfony)
+front-end: js(react)
+templating: none
