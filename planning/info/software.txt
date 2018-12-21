@@ -3,6 +3,6 @@ api: none
 db-host: Heroku
 db: mongodb
 db-lang: graphql
-back-end: php(symfony)
+back-end: js(express)
 front-end: js(react)
 templating: none
